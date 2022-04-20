@@ -15,4 +15,5 @@ BOM:
 
 For Voron 250/300 -
  1. Please use shorter drawer slides (waiting for user feedback).
- 2. Make sure you have enough floor space for your machine, and maybe make some devices/location adjustments. 
+ 2. Please resize the Acrylic board (see the DXF folder)
+ 3. Make sure you have enough floor space for your machine, and maybe make some devices/location adjustments. 
