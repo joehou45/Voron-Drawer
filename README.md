@@ -3,6 +3,9 @@ For Voron 2.4 - Separating the power supply and boards into two layers makes it 
 
 Noted- PYB means Protect Your Back.
 
+
+https://github.com/joehou45/Voron-Drawer/blob/main/Image/S__11460613.jpg
+
 BOM:
 1. 4x L iron: 10cmx10cm (Maybe you can use 3dp to print it and share us)
 2. 2x drawer slide 400mm(16 Inch) -for Voron 350mm (For different types, you need to customize it yourself)
