@@ -1,7 +1,9 @@
 # Voron-Drawer (PYB 1.0)
 For Voron 2.4 - Separating the power supply and boards into two layers makes it easy to check the status of electronic boards and to do some experiments without flipping it over.
 
-Noted- PYB means Protect Your Back.
+#PYB means Protect Your Back.
+
+Please note - each wire may have to be lengthened by 50cm, depending on the length you keep before
 
 ![](./Image/S__11460613.jpg)
 
